@@ -1,0 +1,22 @@
+[
+    {"ProductID": "049", "Name": "HL Mountain Handlebars", "Color": "N", "ListPrice": 120.27, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "050", "Name": "LL Mountain Front Wheel", "Color": "Black", "ListPrice": 60.06, "Size": "N", "Weight": "No"},
+    {"ProductID": "051", "Name": "HL Mountain Front Wheel", "Color": "Black", "ListPrice": 300.129, "Size": "N", "Weight": "Nyhf"},
+    {"ProductID": "052", "Name": "HL Road Front Wheel", "Color": "Black", "ListPrice": 330.385, "Size": "N", "Weight": "650.00"}, 
+    {"ProductID": "053", "Name": "HL Mountain Road Wheel", "Color": "Black", "ListPrice": 327.12, "Size": "N", "Weight": "Nfg"},
+    {"ProductID": "054", "Name": "Minipump", "Color": "N", "ListPrice": 19.99, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "055", "Name": "Hitch Rack - 4-Bike", "Color": "N", "ListPrice": 120.49, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "056", "Name": "LL Road Seat/Saddle", "Color": "Black", "ListPrice": 27.79, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "057", "Name": "LL Road Tire", "Color": "Black", "ListPrice": 21.49, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "058", "Name": "ML Road Tire", "Color": "N", "ListPrice": 25.49, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "911", "Name": "Chain", "Color": "Silver", "ListPrice": 20.27, "Size": "L", "Weight": "150.00"}, 
+    {"ProductID": "912", "Name": "HL Crankset", "Color": "Black", "ListPrice": 406.06, "Size": "N", "Weight": "575.00"}, 
+    {"ProductID": "913", "Name": "Front Brakes", "Color": "Silver", "ListPrice": 105.1, "Size": "N", "Weight": "317.00"}, 
+    {"ProductID": "914", "Name": "ML Road Pedal", "Color": "Silver/Black", "ListPrice": 62.09, "Size": "N", "Weight": "168.00"}, 
+    {"ProductID": "915", "Name": "ML Mountain Pedall", "Color": "Silver/Black", "ListPrice": 62.12, "Size": "N", "Weight": "215.00"}, 
+    {"ProductID": "916", "Name": "ML Road Tire", "Color": "N", "ListPrice": 24.99, "Size": "N", "Weight": "N"}, 
+    {"ProductID": "917", "Name": "Chain", "Color": "Silver", "ListPrice": 25.49, "Size": "M", "Weight": "135.00"}, 
+    {"ProductID": "918", "Name": "Front Brakes", "Color": "Black", "ListPrice": 137.79, "Size": "N", "Weight": "317"}, 
+    {"ProductID": "919", "Name": "HL Crankset", "Color": "Black", "ListPrice": 400.49, "Size": "N", "Weight": "575.00"}, 
+    {"ProductID": "920", "Name": "ML Road Pedal", "Color": "Silver/Blac", "ListPrice": 75.49, "Size": "N", "Weight": "168.00"}
+]
